@@ -2,8 +2,8 @@
 
 Type | Code | Data
 --- | --- | ---
-QR Code | ![](qr.png) | https://github.com/atrinh0
-Universal Product Code (UPC-E) | | 
+QR Code | <img src="qr.png" width=200> | https://github.com/atrinh0
+Universal Product Code (UPC-E) | <img src="upce.png" width=200> | 03133378
 EAN-13 (including UPC-A) | | 
 EAN-8 | | 
 Code 39 | | 
