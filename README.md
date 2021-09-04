@@ -2,7 +2,7 @@
 
 Type | Code | Data
 --- | --- | ---
-QR Code | | 
+QR Code | ![](qr.png) | https://github.com/atrinh0
 Universal Product Code (UPC-E) | | 
 EAN-13 (including UPC-A) | | 
 EAN-8 | | 
