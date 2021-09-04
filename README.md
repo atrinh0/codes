@@ -20,6 +20,10 @@
 
 <br><br><br><br><br>
 
+<img src="code39.png" width=200> | **Code 39** <br> `GRR1337`
+--- | ---
+
+<br><br><br><br><br>
 
 
 
@@ -28,8 +32,6 @@
 
 
 
-Code 39
-Code 39 mod 43
 Code 93
 Code 128
 PDF417
