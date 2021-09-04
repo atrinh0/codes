@@ -15,7 +15,19 @@
 
 <br><br><br><br><br>
 
-EAN-8
+<img src="ean8.png" width=200> | **EAN-8** <br> `93133371`
+--- | ---
+
+<br><br><br><br><br>
+
+
+
+
+
+
+
+
+
 Code 39
 Code 39 mod 43
 Code 93
