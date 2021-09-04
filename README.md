@@ -30,14 +30,39 @@
 
 <br><br><br><br><br><br><br>
 
+<img src="code128.png" width=200> | **Code 128** <br> `GRR-grr-1337`
+--- | ---
+
+<br><br><br><br><br><br><br>
+
+<img src="pdf417.png" width=200> | **PDF417** <br> `Stay Hungry. Stay Foolish.`
+--- | ---
+
+<br><br><br><br><br><br><br>
+
+<img src="aztec.png" width=200> | **Aztec Code** <br> `There is no spoon`
+--- | ---
+
+<br><br><br><br><br><br><br>
+
+<img src="2of5.png" width=200> | **Interleaved 2 of 5** <br> `031337`
+--- | ---
+
+<br><br><br><br><br><br><br>
+
+<img src="itf14.png" width=200> | **ITF14** <br> `031338`
+--- | ---
+
+<br><br><br><br><br><br><br>
+
+<img src="datamatrix.png" width=200> | **DataMatrix** <br> `All your base are belong to us`
+--- | ---
 
 
 
 
 
-Code 128
-PDF417
-Aztec Code
-Interleaved 2 of 5
-ITF14
-DataMatrix
+
+
+
+
